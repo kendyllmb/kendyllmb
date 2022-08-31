@@ -13,7 +13,7 @@ description: A Blog created by a student at Christopher Newport University
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-remote-theme
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -21,3 +21,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+remote_theme: pages-themes/slate@v0.2.0
+
