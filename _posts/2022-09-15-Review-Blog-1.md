@@ -12,7 +12,8 @@ Charles Booth’s London is the record and application of the working class betw
 
 ## Project Application: ##
 
-This DH project gives the reader a better understanding of the social and economic history of London in the late 10th century. By interacting with the map information, and reading the articles and notebooks, the reader can apply how the poverty and working conditions of the London community are related. 
+This DH project gives the reader a better understanding of the social and economic history of London in the late 10th century. By interacting with the map information, and reading the articles and notebooks, the reader can apply how the poverty and working conditions of the London community are related. There is a section labeled “Highlights” that addresses a few common themes that were addressed in the police notebooks. These highlights include Drink and Drugs, Migrant Communities, and Prositution. This allows the reader to dive deeper into this topics that were prevalent in London during the surveys.
+
 
 ## Technology: ##
 
