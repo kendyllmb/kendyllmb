@@ -8,7 +8,7 @@ https://booth.lse.ac.uk/
 
 ## Summary: ## 
 
-## Project topic: ##
+## Project Application: ##
 
 ## Technology: ##
 
