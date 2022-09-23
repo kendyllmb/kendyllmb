@@ -42,6 +42,6 @@ Another improvement I would suggest is in relation to the map. The author labels
 Another interactive improvement I suggest is about the legend on the map. I would have liked to see the legend have the ability to click and filter the color/poverty level. I think this would give the reader the ability to visually see the poverty levels based on location. 
 
 
-## Summary: ##
+## Conclusion: ##
 
 Overall, I think this Digital Humanities project gives some great information to the reader. With a few slight tweaks it would be more accessible to the audience it is reaching. I learned a lot of new information from this site as there were a number of resources scattered throughout the DH project.
