@@ -33,9 +33,7 @@ This DH project has a lot of information and moving parts. The notebooks seem to
 
 ![George H. Duckworth's Notebook](https://kendyllmb.github.io/kendyllmb/images/notebook.jpeg)
 
-Another improvement I would suggest is in relation to the map. The author labels the singular map area on the navigation tab as “Maps” (plural). This seems a bit confusing since it is actually 1 interactive map overlay with the ability to slide between present day and Booth’s map. 
-
-They also use the language, “Browse and search the maps”. The use of the plural language, in my opinion, gives the reader the sense that there are multiple maps to analyze when in fact it is a singular map area of London.
+Another improvement I would suggest is in relation to the map. The author labels the singular map area on the navigation tab as “Maps” (plural). This seems a bit confusing since it is actually 1 interactive map overlay with the ability to slide between present day and Booth’s map. They also use the language, “Browse and search the maps”. The use of the plural language, in my opinion, gives the reader the sense that there are multiple maps to analyze when in fact it is a singular map area of London.
  
 ![Legend showing socioeconomic status](https://kendyllmb.github.io/kendyllmb/images/legend.jpeg) 
 
