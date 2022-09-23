@@ -31,5 +31,5 @@ This DH project has a lot of information and moving parts. The notebooks seem to
 
 Another improvement I would suggest is in relation to the map. The author labels the map as “Maps” and uses the language, “Browse and search the maps”. This seems a bit confusing since it is actually 1 interactive map with the ability to change between present day and Booth’s map. 
 
-![Legend showing socioeconomic status](https://kendyllmb.github.io/kendyllmb/images/legend.jpeg)
+![Legend showing socioeconomic status](https://kendyllmb.github.io/kendyllmb/images/legend.jpeg) 
 I also would have liked to see the legend have the ability to click and filter the color/poverty level. I think this would give the reader the ability to visually see the poverty levels based on location.
