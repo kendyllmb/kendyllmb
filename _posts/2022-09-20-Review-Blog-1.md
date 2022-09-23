@@ -3,7 +3,7 @@
 ### Project Director(s): ###  
 [LSE Library](lse.ac.uk/Library)  
 ### Project URL: ###  
-https://booth.lse.ac.uk/
+[https://booth.lse.ac.uk/]
 
 
 ## Summary: ## 
