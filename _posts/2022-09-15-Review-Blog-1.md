@@ -18,9 +18,9 @@ This DH project gives the reader a better understanding of the social and econom
 
 ## Technology: ##
 
-![Map of London with slider](https://kendyllmb.github.io/kendyllmb/images/map.jpeg)
-
 Charles Booth used a complex method of analyzing the lives of people in the community by interviewing them at their workplace, home, and places of worship. They used the comments from interviewees to generate statistical evidence of the working conditions in London. This data was then used to make a map of the London poverty levels divided by streets and location. This was one of Charles Booth’s most well-known achievements. 
+
+![Map of London with slider](https://kendyllmb.github.io/kendyllmb/images/map.jpeg)
 
 This map is interactive, giving the reader the ability to use the slider to move between Booth’s map and the present day map. This shows a direct overlay of both maps at once allowing a nearly perfect comparison of streets/location. This is relevant because it connects to present day map data which is easier for the reader to relate to and analyze in present day conditions. 
 
