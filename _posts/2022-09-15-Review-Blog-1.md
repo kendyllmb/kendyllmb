@@ -29,9 +29,11 @@ Another technological part of the site is the scanned notebooks from interviews 
 
 ## Improvements: ##
 
+![George H. Duckworth's Notebook](https://kendyllmb.github.io/kendyllmb/images/notebook.jpeg)
+
 This DH project has a lot of information and moving parts. The notebooks seem to provide less information to the general public and reader since they are not experts on the field. An explanation of the content of the notebooks would really benefit the reader to make it easier to understand the numbers and brief wording. While the scans of these original notebooks are great quality making it easy to read, it may still be hard for some to transcribe it themselves. There are brief summaries next to some of the pages but there is no direct transcription, which I think would be beneficial to the reader.
 
-![George H. Duckworth's Notebook](https://kendyllmb.github.io/kendyllmb/images/notebook.jpeg)
+![Box with the word "Maps" on it](https://kendyllmb.github.io/kendyllmb/images/maps.jpeg) 
 
 Another improvement I would suggest is in relation to the map. The author labels the singular map area on the main home page as “Maps” (plural). This seems a bit confusing since it is actually 1 interactive map overlay with the ability to slide between present day and Booth’s map. They also use the language, “Browse and search the maps”. The use of the plural language, in my opinion, gives the reader the sense that there are multiple maps to analyze when in fact it is a singular map area of London.
  
