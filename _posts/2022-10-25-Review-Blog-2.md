@@ -1,9 +1,9 @@
 ### Project: ###  
-Living Together/Living Apart   
+Living Together / Living Apart   
 ### Project Director(s): ###  
-[LSE Library](lse.ac.uk/Library)  
+Johnny Finn, Ph.D.
 ### Project URL: ###  
-[https://booth.lse.ac.uk/](https://booth.lse.ac.uk/)
+[https://www.livingtogetherlivingapart.com/](https://www.livingtogetherlivingapart.com/)
 
 
 ## Summary: ## 
