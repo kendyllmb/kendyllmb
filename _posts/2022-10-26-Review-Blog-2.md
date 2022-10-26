@@ -20,7 +20,7 @@ Johnny Finn, Ph.D.
 
 
 
-![Map of London with slider](https://kendyllmb.github.io/kendyllmb/images/map.jpeg)
+![Interactive Map of Hampton Roads](https://kendyllmb.github.io/kendyllmb/images/interactive.gif)
 
 
 
