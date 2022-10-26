@@ -8,7 +8,7 @@ Johnny Finn, Ph.D.
 
 ## Summary: ## 
 
-
+Living Together / Living Apart is a Digital Humanities project created by Dr. John Finn, an Associate Professor of Geography at Christopher Newport University. 
 
 
 ## Project Application: ##
