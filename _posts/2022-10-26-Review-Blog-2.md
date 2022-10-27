@@ -37,9 +37,7 @@ The map at the end of the “Mapping Segregation” tab called “Segregated Vir
 * Home Value
 * Predominant Racial/Ethnic Group
 
-
 ![Interactive Map of Hampton Roads](https://kendyllmb.github.io/kendyllmb/images/interactive.gif)
-
 
 There is a second map on this site, “Mapping the Socio-Environmental Impacts of Racial Segregation” shown below, goes more in depth about the following areas: 
 1. Redlining Hampton Roads
@@ -52,6 +50,8 @@ There is a second map on this site, “Mapping the Socio-Environmental Impacts o
 Since this section contains more historical information and research behind the above topics, there is a greater understanding of the effects of racial segregation which is the point of this section of the project. Overall, it brings together research and the application of that data on the map and helps the readers get the full picture of the impacts of the research on the larger community.
 
 ![The Socio-Environmental Impacts of Redlining in Hampton Roads, VA](https://kendyllmb.github.io/kendyllmb/images/impact.jpeg)
+
+"Photovoice" is another part of this project as shown below. The researchers gave out disposable cameras to individuals in the community and asked them to take pictures of places that had an impact on their life. Each photo was then put into an interactive map based on location with comments from the community about why this location/building was meaningful to them.The map has larger bubbles to visually represent the number of photos taken in that area by the community.  This part of the project really brings together the community to see how the areas they live in impact their views on life.
 
 ![Photovoice](https://kendyllmb.github.io/kendyllmb/images/photovoice.jpeg)
 
