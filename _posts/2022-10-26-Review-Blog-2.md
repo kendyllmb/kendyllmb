@@ -15,9 +15,9 @@ Johnny Finn, Ph.D.
 
 There are many parts to this project that includes personal interviews, photographs of the area, and interactive maps. This information includes research conducted to analyze the socio-environmental impacts of redlining and segregation in the Hampton Roads area in the 21st century and educate readers on these issues.
  
+![Living Together / Living Apart Homepage](https://kendyllmb.github.io/kendyllmb/images/homepage.jpeg)
 
-
-## Project Application: ##
+## Humanities Application: ##
 
 ![The Socio-Environmental Impacts of Redlining in Hampton Roads, VA](https://kendyllmb.github.io/kendyllmb/images/impact.jpeg)
 
@@ -33,13 +33,6 @@ There are many parts to this project that includes personal interviews, photogra
 
 ## Improvements: ##
 
-
-
-![Box with the word "Maps" on it](https://kendyllmb.github.io/kendyllmb/images/maps.jpeg) 
-
-
- 
-![Legend showing socioeconomic status](https://kendyllmb.github.io/kendyllmb/images/legend.jpeg) 
 
 ## Relation to my DH Project: ##
 
