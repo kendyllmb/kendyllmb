@@ -1,5 +1,5 @@
 ### Project: ###  
-Living Together / Living Apart   
+*Living Together / Living Apart*   
 ### Project Director(s): ###  
 Johnny Finn, Ph.D.
 ### Project URL: ###  
