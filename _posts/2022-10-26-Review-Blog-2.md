@@ -35,7 +35,7 @@ There are many parts to this project that includes personal interviews, photogra
 
 ## Improvements: ##
 
-![Exlpore Button Issue](https://kendyllmb.github.io/kendyllmb/images/explorebutton.jpeg)
+![Explore Button Issue](https://kendyllmb.github.io/kendyllmb/images/explorebutton.jpeg)
 
 ## Relation to my DH Project: ##
 
