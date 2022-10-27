@@ -31,7 +31,7 @@ There are many parts to this project that includes personal interviews, photogra
 
 ![Interactive Map of Hampton Roads](https://kendyllmb.github.io/kendyllmb/images/interactive.gif)
 
-
+![Photovoice](https://kendyllmb.github.io/kendyllmb/images/photovoice.gif)
 
 ## Improvements: ##
 
