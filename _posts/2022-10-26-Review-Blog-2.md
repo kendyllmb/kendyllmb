@@ -31,11 +31,11 @@ There are many parts to this project that includes personal interviews, photogra
 
 ![Interactive Map of Hampton Roads](https://kendyllmb.github.io/kendyllmb/images/interactive.gif)
 
-![Photovoice](https://kendyllmb.github.io/kendyllmb/images/photovoice.gif)
+![Photovoice](https://kendyllmb.github.io/kendyllmb/images/photovoice.jpeg)
 
 ## Improvements: ##
 
-![Exlpore Button Issue](https://kendyllmb.github.io/kendyllmb/images/explorebutton.gif)
+![Exlpore Button Issue](https://kendyllmb.github.io/kendyllmb/images/explorebutton.jpeg)
 
 ## Relation to my DH Project: ##
 
