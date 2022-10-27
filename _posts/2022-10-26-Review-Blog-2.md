@@ -70,7 +70,7 @@ Another issue I noticed had to do with the “Mapping Segregation” page. There
 ![Roman Numeral Issue IV](https://kendyllmb.github.io/kendyllmb/images/IV.jpeg)
 ![Roman Numeral Issue VI](https://kendyllmb.github.io/kendyllmb/images/VI.jpeg)
 
-Overall, these issues are very minor and does not drastically take away/affect the main purpose of this DH project.
+Overall, these issues are very minor and do not drastically take away/affect the main purpose of this DH project.
 
 ## Relation to my DH Project: ##
 
