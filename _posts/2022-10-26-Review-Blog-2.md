@@ -13,7 +13,7 @@ Living Together / Living Apart is a Digital Humanities project created by Dr. Jo
 
 ## Project Application: ##
 
-![The Socio-Environmental Impacts of Redlining in Hampton Roads, VA](https://kendyllmb.github.io/kendyllmb/images/impact map.jpeg)
+![The Socio-Environmental Impacts of Redlining in Hampton Roads, VA](https://kendyllmb.github.io/kendyllmb/images/impactmap.jpeg)
 
 
 
