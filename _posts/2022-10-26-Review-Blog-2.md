@@ -43,6 +43,9 @@ The map at the end of the “Mapping Segregation” tab called “Segregated Vir
 
 ![Explore Button Issue](https://kendyllmb.github.io/kendyllmb/images/explorebutton.jpeg)
 
+![Roman Numeral Issue IV](https://kendyllmb.github.io/kendyllmb/images/IV.jpeg)
+![Roman Numeral Issue VI](https://kendyllmb.github.io/kendyllmb/images/VI.jpeg)
+
 ## Relation to my DH Project: ##
 
 
