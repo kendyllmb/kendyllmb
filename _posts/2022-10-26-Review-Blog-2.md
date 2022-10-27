@@ -70,9 +70,8 @@ Another issue I noticed had to do with the “Mapping Segregation” page. There
 ![Roman Numeral Issue IV](https://kendyllmb.github.io/kendyllmb/images/IV.jpeg)
 ![Roman Numeral Issue VI](https://kendyllmb.github.io/kendyllmb/images/VI.jpeg)
 
+Overall, these issues are very minor and does not drastically take away/affect the main purpose of this DH project.
+
 ## Relation to my DH Project: ##
 
-
-## Conclusion: ##
-
-
+*Living Together / Living Apart* is an extremely useful and informative DH project. I have really enjoyed getting to know more about the Hampton Roads community and the impacts of racial segregation. The technology used in this project is inspiring for me to create my DH project because I intend to portray similar information. My research will be presented on a map with the interactiveness being a top priority, which this project really focused on. On the other hand, my project will be more focused on Christopher Newport University and the surrounding Newport News community instead of the more broad Hampton Roads area. 
