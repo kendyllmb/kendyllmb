@@ -25,6 +25,8 @@ There are many parts to this project that includes personal interviews, photogra
 
 ## Technology: ##
 
+![Initial Overview of How To Use and Understnand the Map](https://kendyllmb.github.io/kendyllmb/images/howto.gif)
+
 
 
 ![Interactive Map of Hampton Roads](https://kendyllmb.github.io/kendyllmb/images/interactive.gif)
