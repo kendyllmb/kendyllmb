@@ -29,7 +29,7 @@ Under the “Mapping Segregation” tab, there is an interactive portion of the 
 
 The technology used in this DH project is very impressive. I appreciate the thoroughness of how the information is presented and the interactiveness for the reader. 
 
-The map at the end of the “Mapping Segregation” tab called “Segregated Virginia” is the overall, interactive map on this site since it has the ability to overlap data. This is my favorite part of this project because of how interactive it is. The ability to filter through and show/unshow various overlays helps connect common themes. The main map includes a variety of information including:
+The map at the end of the “Mapping Segregation” tab called “Segregated Virginia” is the overall, interactive map on this site since it has the ability to overlap data. This is my favorite part of this project because of how user-friendly and interesting it is. The ability to filter through and show/unshow various overlays helps connect common themes. The main map includes a variety of information including:
 
 * Public Housing Developments
 * Redlined Neighborhoods
