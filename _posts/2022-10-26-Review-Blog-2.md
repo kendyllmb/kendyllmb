@@ -35,14 +35,13 @@ There are many parts to this project that includes personal interviews, photogra
 
 
 
-
 ![Box with the word "Maps" on it](https://kendyllmb.github.io/kendyllmb/images/maps.jpeg) 
 
 
  
 ![Legend showing socioeconomic status](https://kendyllmb.github.io/kendyllmb/images/legend.jpeg) 
 
-
+## Relation to my DH Project: ##
 
 
 ## Conclusion: ##
