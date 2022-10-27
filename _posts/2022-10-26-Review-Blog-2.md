@@ -19,7 +19,7 @@ There are many parts to this project that includes personal interviews, photogra
 
 ## Project Application: ##
 
-![The Socio-Environmental Impacts of Redlining in Hampton Roads, VA](https://kendyllmb.github.io/kendyllmb/images/impactmap.jpeg)
+![The Socio-Environmental Impacts of Redlining in Hampton Roads, VA](https://kendyllmb.github.io/kendyllmb/images/impact.jpeg)
 
 
 
