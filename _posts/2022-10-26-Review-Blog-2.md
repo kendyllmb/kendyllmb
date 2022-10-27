@@ -29,7 +29,13 @@ Under the “Mapping Segregation” tab, there is an interactive portion of the 
 
 The technology used in this DH project is very impressive. I appreciate the thoroughness of how the information is presented and the interactiveness for the reader. 
 
-The map at the end of the “Mapping Segregation” tab called “Segregated Virginia” is the overall, interactive map on this site since it has the ability to overlap data. 
+The map at the end of the “Mapping Segregation” tab called “Segregated Virginia” is the overall, interactive map on this site since it has the ability to overlap data. This is my favorite part of this project because of how interactive it is. The ability to filter through and show/unshow various overlays helps connect common themes. The main map includes a variety of information including:
+
+* Public Housing Developments
+* Redlined Neighborhoods
+* Household Income
+* Home Value
+* Predominant Racial/Ethnic Group
 
 
 ![Interactive Map of Hampton Roads](https://kendyllmb.github.io/kendyllmb/images/interactive.gif)
@@ -37,11 +43,30 @@ The map at the end of the “Mapping Segregation” tab called “Segregated Vir
 ![The Socio-Environmental Impacts of Redlining in Hampton Roads, VA](https://kendyllmb.github.io/kendyllmb/images/impact.jpeg)
 
 
+There is a second map on this site, “Mapping the Socio-Environmental Impacts of Racial Segregation” goes more in depth about the following areas: 
+1. Redlining Hampton Roads
+2. Race
+3. Poverty
+4. Environmental Justice
+5. Tree Canopy and Urban Heat
+6. Impervious Surfaces and Urban Heat 
+
+Since this section contains more historical information and research behind the above topics, there is a greater understanding of the effects of racial segregation which is the point of this section of the project. Overall, it brings together research and the application of that data on the map and helps the readers get the full picture of the impacts of the research on the larger community.
+
+
 ![Photovoice](https://kendyllmb.github.io/kendyllmb/images/photovoice.jpeg)
 
 ## Improvements: ##
 
+This DH project has a lot of moving parts, literally and figuratively. I really love the way the site is set up and how the information is presented to the reader. 
+
+Since this project has a somewhat complex map with a variety of information included, sometimes it may be daunting for the reader to fully understand. On the other hand, the thoroughness of this topic is very helpful and may just take some time to comprehend what is being shown.
+
+My initial issue with this project was in relation to the main map shown below. At first, I thought it wasn't working. After more interaction with the page I realized that there was a small button at the bottom corner of the map, called “Explore” that allows you to turn on and off the ability to interact with the map. I would suggest making this button more visible to users by either changing the placement or making it larger. 
+
 ![Explore Button Issue](https://kendyllmb.github.io/kendyllmb/images/explorebutton.jpeg)
+
+Another issue I noticed had to do with the “Mapping Segregation” page. There seems to be a typo where the roman numerals go from IV (4) to VI (6) as shown in the images below.
 
 ![Roman Numeral Issue IV](https://kendyllmb.github.io/kendyllmb/images/IV.jpeg)
 ![Roman Numeral Issue VI](https://kendyllmb.github.io/kendyllmb/images/VI.jpeg)
