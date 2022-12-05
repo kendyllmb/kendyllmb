@@ -4,7 +4,7 @@ In the beginning of this course, I did not fully grasp and understand the extent
 
 Staring off, I really liked having our [syllabus](https://deanna-stover.github.io/coursesCNU/2022/engl350fall2022) on the github site. It was a fresh and new way of presenting information for the class and I enjoy having everything in one place. I also think it set us up well for using github in our blogs and seeing how the site can be utilized. Github was a new and somewhat tedious site to learn. I really benefited from having the walkthrough instructions and video on the syllabus. I was able to refer back to it when needed and it definitely helped set me up for success. 
 
-![Syllabus](https://kendyllmb.github.io/kendyllmb/images/syllabus.jpeg)
+![Syllabus](https://kendyllmb.github.io/kendyllmb/images/Syllabus.jpeg)
 
 As I __reflect__ on the course readings, I was more engaged in readings that involved technology and an interactive delivery of information. I am a visual learner and the readings that had that added piece were the ones that connected me to the DH field more. For example, the reading [*"What Makes Writing More Readable"*](https://pudding.cool/2022/02/plain/) was an interactive and informative site that really stood out to me. On the other hand, the readings that were more complex and lengthy did not contribute to my understanding of DH as much as the interactive ones. 
 
