@@ -1,4 +1,4 @@
-#My DH Journey
+## My DH Journey
 
 In the beginning of this course, I did not fully grasp and understand the extent of the Digital Humanities field. After the first few weeks of class, we explored DH and I was able to gain more knowledge and appreciation for the Digital Humanities world.
 
